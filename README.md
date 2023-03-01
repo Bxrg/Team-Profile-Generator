@@ -1,6 +1,9 @@
 <h1>Team Profile Generator</h1>
 
+![image](https://user-images.githubusercontent.com/112674083/222074608-3f6a5f3a-0dfc-4df7-8989-91fcdbdb76c5.png)
 
+
+![image](https://user-images.githubusercontent.com/112674083/222074836-6090da25-167f-4934-8e86-2f8a2658d88d.png)
 
 
 <h2>Description</h2>
